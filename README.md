@@ -16,3 +16,9 @@ To find reasonable hotels to stay in Tokyo by using a machine learning model
 ### Data Resource
 * <a href="https://bit.ly/2UrfBf2" target="_blank">hotels.com</a> -> hotel dataset (location, price, tags, filters, and so on)
 * <a href="https://4sq.com/30rrjdk" target="_blank">foursquare</a> -> location data (API)
+
+## Problem Background
+* I've got asked for a hotel recommendation quite often whenever some friends of mine planed to come to Japan for travel.
+* What they wanted to know was in short "which hotel/area is cheap to stay?".
+* I think most of exisiting booking services don't suitably provide a nice UI for an answer to this question.
+* I hope this project to be a solution to the more satisfying and convincing choice of hotel.
