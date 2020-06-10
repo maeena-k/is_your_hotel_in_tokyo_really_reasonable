@@ -14,5 +14,5 @@ To find reasonable hotels to stay in Tokyo by using a machine learning model
 4. Use the model to see if hotel is reasonably priced
 
 ### Data Resource
-* <a href="https://bit.ly/2UrfBf2" target="_blank">hotels.com</a> -> hotel dataset(location, price, tags, filters, and so on)
-* <a href="https://4sq.com/30rrjdk" target="_blank">foursquare</a> -> location data(API)
+* <a href="https://bit.ly/2UrfBf2" target="_blank">hotels.com</a> -> hotel dataset (location, price, tags, filters, and so on)
+* <a href="https://4sq.com/30rrjdk" target="_blank">foursquare</a> -> location data (API)
