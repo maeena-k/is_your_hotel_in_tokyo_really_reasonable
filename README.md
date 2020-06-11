@@ -18,7 +18,7 @@ To find reasonable hotels to stay in Tokyo
 * <a href="https://4sq.com/30rrjdk" target="_blank">foursquare</a> -> location data (API)
 
 ## Problem Background
-* I've got asked for a hotel recommendation quite often whenever some friends of mine planed to come to Japan for travel.
-* What they wanted to know was in short "which hotel/area is cheap to stay?".
-* I think that most of exisiting booking services don't suitably provide an answer to this question (simply because of too much information for human brains to deal with).
-* I hope this project could be a solution to the more satisfying and convincing choice of your hotel.
+* I've got asked for a hotel recommendation quite often when some friends of mine planed to come to Tokyo for travel.
+* What they wanted was in short "which hotel/area is cheap to stay?".
+* It feels that most of exisiting booking services don't suitably provide an answer to this question (assumingly because of too much information on their websites).
+* I hope this project could be a solution to the more satisfying and convincing choice of your hotel in Tokyo as well.
