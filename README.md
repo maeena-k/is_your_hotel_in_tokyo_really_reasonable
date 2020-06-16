@@ -9,7 +9,7 @@ To find reasonable hotels to stay in Tokyo
 
 ### Resolving Scheme
 1. Scraping a booking web service to get the dataset of hotels
-2. Process the dataset
+2. Explore the dataset and build a hypothesis 
 3. Create a machine learning model to predict the price of hotel
 4. Use the model to see if hotel is reasonably priced
 
