@@ -1,0 +1,308 @@
+area,main_category,count_num
+Adachi City,Arts & Entertainment,2
+Adachi City,Food,11
+Adachi City,Outdoors & Recreation,8
+Adachi City,Shop & Service,22
+Akiruno,Arts & Entertainment,3
+Akiruno,Food,6
+Akiruno,Outdoors & Recreation,2
+Akiruno,Shop & Service,31
+Akiruno,Travel & Transport,1
+Akishima,Arts & Entertainment,6
+Akishima,Food,14
+Akishima,Nightlife Spot,1
+Akishima,Outdoors & Recreation,5
+Akishima,Shop & Service,17
+Arakawa City,Arts & Entertainment,10
+Arakawa City,Food,11
+Arakawa City,Nightlife Spot,2
+Arakawa City,Outdoors & Recreation,7
+Arakawa City,Professional & Other Places,3
+Arakawa City,Shop & Service,14
+Bunkyo City,Arts & Entertainment,10
+Bunkyo City,Food,9
+Bunkyo City,Nightlife Spot,1
+Bunkyo City,Outdoors & Recreation,6
+Bunkyo City,Professional & Other Places,2
+Bunkyo City,Shop & Service,10
+Chiyoda City,Arts & Entertainment,13
+Chiyoda City,Food,4
+Chiyoda City,Nightlife Spot,1
+Chiyoda City,Outdoors & Recreation,8
+Chiyoda City,Professional & Other Places,4
+Chiyoda City,Shop & Service,7
+Chofu,Arts & Entertainment,3
+Chofu,Food,9
+Chofu,Outdoors & Recreation,8
+Chofu,Shop & Service,16
+Chuo City,Arts & Entertainment,13
+Chuo City,Food,5
+Chuo City,Nightlife Spot,1
+Chuo City,Outdoors & Recreation,5
+Chuo City,Professional & Other Places,5
+Chuo City,Shop & Service,7
+Edogawa City,Arts & Entertainment,1
+Edogawa City,Food,11
+Edogawa City,Outdoors & Recreation,10
+Edogawa City,Shop & Service,20
+Edogawa City,Travel & Transport,1
+Fuchu,Arts & Entertainment,4
+Fuchu,Food,9
+Fuchu,Nightlife Spot,1
+Fuchu,Outdoors & Recreation,9
+Fuchu,Shop & Service,14
+Fussa,Arts & Entertainment,2
+Fussa,Food,9
+Fussa,Outdoors & Recreation,2
+Fussa,Shop & Service,31
+Hachioji,Arts & Entertainment,1
+Hachioji,Food,8
+Hachioji,Outdoors & Recreation,3
+Hachioji,Shop & Service,34
+Hamura,Arts & Entertainment,3
+Hamura,Food,8
+Hamura,Outdoors & Recreation,4
+Hamura,Shop & Service,32
+Higashikurume,Food,9
+Higashikurume,Nightlife Spot,1
+Higashikurume,Outdoors & Recreation,6
+Higashikurume,Shop & Service,31
+Higashimurayama,Arts & Entertainment,4
+Higashimurayama,Food,11
+Higashimurayama,Nightlife Spot,1
+Higashimurayama,Outdoors & Recreation,5
+Higashimurayama,Shop & Service,25
+Higashiyamato,Arts & Entertainment,2
+Higashiyamato,Food,5
+Higashiyamato,Nightlife Spot,1
+Higashiyamato,Outdoors & Recreation,5
+Higashiyamato,Shop & Service,31
+Hino,Arts & Entertainment,4
+Hino,Food,18
+Hino,Nightlife Spot,1
+Hino,Outdoors & Recreation,3
+Hino,Shop & Service,18
+Hinode,Arts & Entertainment,1
+Hinode,Food,13
+Hinode,Outdoors & Recreation,2
+Hinode,Shop & Service,30
+Inagi,Arts & Entertainment,7
+Inagi,Food,10
+Inagi,Nightlife Spot,1
+Inagi,Outdoors & Recreation,6
+Inagi,Shop & Service,15
+Inagi-shi,Arts & Entertainment,8
+Inagi-shi,Food,9
+Inagi-shi,Nightlife Spot,1
+Inagi-shi,Outdoors & Recreation,8
+Inagi-shi,Shop & Service,14
+Itabashi City,Arts & Entertainment,3
+Itabashi City,Food,16
+Itabashi City,Nightlife Spot,3
+Itabashi City,Outdoors & Recreation,12
+Itabashi City,Shop & Service,11
+Katsushika City,Arts & Entertainment,1
+Katsushika City,Food,12
+Katsushika City,Nightlife Spot,2
+Katsushika City,Outdoors & Recreation,9
+Katsushika City,Shop & Service,21
+Kita City,Arts & Entertainment,6
+Kita City,Food,15
+Kita City,Nightlife Spot,3
+Kita City,Outdoors & Recreation,9
+Kita City,Shop & Service,10
+Kiyose,Arts & Entertainment,2
+Kiyose,Food,9
+Kiyose,Nightlife Spot,1
+Kiyose,Outdoors & Recreation,4
+Kiyose,Shop & Service,30
+Kodaira,Food,11
+Kodaira,Nightlife Spot,1
+Kodaira,Outdoors & Recreation,5
+Kodaira,Shop & Service,20
+Koganei,Arts & Entertainment,5
+Koganei,Food,13
+Koganei,Outdoors & Recreation,11
+Koganei,Shop & Service,11
+Kokubunji,Arts & Entertainment,8
+Kokubunji,Food,13
+Kokubunji,Nightlife Spot,1
+Kokubunji,Outdoors & Recreation,7
+Kokubunji,Shop & Service,11
+Komae,Arts & Entertainment,4
+Komae,Food,12
+Komae,Outdoors & Recreation,11
+Komae,Professional & Other Places,1
+Komae,Shop & Service,13
+Koto City,Arts & Entertainment,10
+Koto City,Food,12
+Koto City,Nightlife Spot,3
+Koto City,Outdoors & Recreation,3
+Koto City,Professional & Other Places,2
+Koto City,Shop & Service,11
+Kozushima,Arts & Entertainment,1
+Kozushima,Food,2
+Kozushima,Nightlife Spot,1
+Kozushima,Outdoors & Recreation,3
+Kozushima,Shop & Service,1
+Kozushima,Travel & Transport,1
+Kunitachi,Arts & Entertainment,7
+Kunitachi,Food,17
+Kunitachi,Nightlife Spot,2
+Kunitachi,Outdoors & Recreation,6
+Kunitachi,Shop & Service,11
+Machida,Arts & Entertainment,1
+Machida,Food,16
+Machida,Outdoors & Recreation,8
+Machida,Shop & Service,18
+Meguro City,Arts & Entertainment,4
+Meguro City,Food,16
+Meguro City,Nightlife Spot,2
+Meguro City,Outdoors & Recreation,15
+Meguro City,Professional & Other Places,1
+Meguro City,Shop & Service,7
+Minato City,Arts & Entertainment,10
+Minato City,Food,9
+Minato City,Nightlife Spot,2
+Minato City,Outdoors & Recreation,8
+Minato City,Professional & Other Places,3
+Minato City,Shop & Service,5
+Mitaka,Arts & Entertainment,2
+Mitaka,Food,17
+Mitaka,Nightlife Spot,1
+Mitaka,Outdoors & Recreation,12
+Mitaka,Shop & Service,7
+Mizuho,Arts & Entertainment,2
+Mizuho,Food,10
+Mizuho,Outdoors & Recreation,2
+Mizuho,Shop & Service,27
+Musashimurayama,Arts & Entertainment,4
+Musashimurayama,Food,4
+Musashimurayama,Outdoors & Recreation,5
+Musashimurayama,Shop & Service,29
+Musashino,Arts & Entertainment,2
+Musashino,Food,16
+Musashino,Nightlife Spot,1
+Musashino,Outdoors & Recreation,14
+Musashino,Shop & Service,7
+Nakano City,Arts & Entertainment,4
+Nakano City,Food,11
+Nakano City,Nightlife Spot,7
+Nakano City,Outdoors & Recreation,13
+Nakano City,Professional & Other Places,1
+Nakano City,Shop & Service,6
+Nakano City,Travel & Transport,1
+Nerima City,Arts & Entertainment,4
+Nerima City,Food,14
+Nerima City,Nightlife Spot,1
+Nerima City,Outdoors & Recreation,14
+Nerima City,Shop & Service,9
+Niijima,Arts & Entertainment,1
+Niijima,Food,7
+Niijima,Nightlife Spot,1
+Niijima,Outdoors & Recreation,6
+Niijima,Shop & Service,2
+Niijima,Travel & Transport,2
+Nishitokyo,Arts & Entertainment,2
+Nishitokyo,Food,15
+Nishitokyo,Nightlife Spot,2
+Nishitokyo,Outdoors & Recreation,7
+Nishitokyo,Shop & Service,17
+Ogasawara,Food,4
+Ogasawara,Outdoors & Recreation,10
+Ogasawara,Shop & Service,4
+Ogasawara,Travel & Transport,3
+Ome,Arts & Entertainment,1
+Ome,Food,8
+Ome,Outdoors & Recreation,4
+Ome,Shop & Service,33
+Oshima,Food,3
+Oshima,Outdoors & Recreation,2
+Oshima,Travel & Transport,1
+Ota City,Arts & Entertainment,1
+Ota City,Food,18
+Ota City,Nightlife Spot,3
+Ota City,Outdoors & Recreation,16
+Ota City,Shop & Service,6
+Setagaya City,Arts & Entertainment,1
+Setagaya City,Food,17
+Setagaya City,Nightlife Spot,1
+Setagaya City,Outdoors & Recreation,16
+Setagaya City,Shop & Service,6
+Shibuya City,Arts & Entertainment,8
+Shibuya City,Food,5
+Shibuya City,Nightlife Spot,4
+Shibuya City,Outdoors & Recreation,13
+Shibuya City,Professional & Other Places,5
+Shibuya City,Shop & Service,6
+Shinagawa City,Arts & Entertainment,7
+Shinagawa City,Food,12
+Shinagawa City,Nightlife Spot,3
+Shinagawa City,Outdoors & Recreation,13
+Shinagawa City,Professional & Other Places,1
+Shinagawa City,Shop & Service,8
+Shinjuku City,Arts & Entertainment,9
+Shinjuku City,Food,7
+Shinjuku City,Nightlife Spot,3
+Shinjuku City,Outdoors & Recreation,13
+Shinjuku City,Professional & Other Places,2
+Shinjuku City,Shop & Service,6
+Suginami City,Arts & Entertainment,2
+Suginami City,Food,16
+Suginami City,Nightlife Spot,3
+Suginami City,Outdoors & Recreation,13
+Suginami City,Shop & Service,7
+Suginami City,Travel & Transport,1
+Sumida City,Arts & Entertainment,11
+Sumida City,Food,12
+Sumida City,Nightlife Spot,2
+Sumida City,Outdoors & Recreation,1
+Sumida City,Professional & Other Places,3
+Sumida City,Shop & Service,15
+Tachikawa,Arts & Entertainment,5
+Tachikawa,Food,14
+Tachikawa,Outdoors & Recreation,4
+Tachikawa,Shop & Service,20
+Taito City,Arts & Entertainment,11
+Taito City,Food,9
+Taito City,Nightlife Spot,1
+Taito City,Outdoors & Recreation,6
+Taito City,Professional & Other Places,3
+Taito City,Shop & Service,10
+Tama,Arts & Entertainment,3
+Tama,Food,9
+Tama,Nightlife Spot,1
+Tama,Outdoors & Recreation,7
+Tama,Shop & Service,24
+Toshima City,Arts & Entertainment,3
+Toshima City,Food,14
+Toshima City,Nightlife Spot,4
+Toshima City,Outdoors & Recreation,10
+Toshima City,Shop & Service,9
+Toshima City,Travel & Transport,1
+Ōshima-machi,Food,5
+Ōshima-machi,Outdoors & Recreation,7
+Ōshima-machi,Shop & Service,5
+Ōshima-machi,Travel & Transport,3
+三宅島,Food,1
+三宅島,Outdoors & Recreation,3
+三宅島,Travel & Transport,4
+三宅島 三宅村,Food,1
+三宅島 三宅村,Outdoors & Recreation,3
+三宅島 三宅村,Travel & Transport,4
+八丈島,Arts & Entertainment,1
+八丈島,Food,5
+八丈島,Outdoors & Recreation,10
+八丈島,Shop & Service,7
+八丈島,Travel & Transport,7
+八丈島 八丈町,Arts & Entertainment,1
+八丈島 八丈町,Food,2
+八丈島 八丈町,Outdoors & Recreation,6
+八丈島 八丈町,Shop & Service,2
+八丈島 八丈町,Travel & Transport,1
+千代田区,Arts & Entertainment,13
+千代田区,Food,4
+千代田区,Nightlife Spot,1
+千代田区,Outdoors & Recreation,8
+千代田区,Professional & Other Places,5
+千代田区,Shop & Service,8
